@@ -1,9 +1,13 @@
 li {
     font-size: large;
     color: violet;
-    font-style: italic;    
+    font-style: italic; 
+    
+    
 }
 
 h3 {
     text-decoration: underline;
+    color: violet;
+    
 }

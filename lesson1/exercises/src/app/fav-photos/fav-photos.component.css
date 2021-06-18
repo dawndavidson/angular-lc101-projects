@@ -1,9 +1,12 @@
 h3 {
    color: brown;
+   
 }
 
 img {
-   
+   width: 125px;
+   height: 125px;
+   margin: 10px 25px 25px 10px;
 
 }
 
